@@ -1,0 +1,13 @@
+C:\Users\dexter\source\repos\EntityProject\data\bin\Debug\netstandard2.0\data.deps.json
+C:\Users\dexter\source\repos\EntityProject\data\bin\Debug\netstandard2.0\data.dll
+C:\Users\dexter\source\repos\EntityProject\data\obj\Debug\netstandard2.0\data.csprojAssemblyReference.cache
+C:\Users\dexter\source\repos\EntityProject\data\obj\Debug\netstandard2.0\data.csproj.CoreCompileInputs.cache
+C:\Users\dexter\source\repos\EntityProject\data\obj\Debug\netstandard2.0\data.AssemblyInfoInputs.cache
+C:\Users\dexter\source\repos\EntityProject\data\obj\Debug\netstandard2.0\data.AssemblyInfo.cs
+C:\Users\dexter\source\repos\EntityProject\data\bin\Debug\netstandard2.0\domain.dll
+C:\Users\dexter\source\repos\EntityProject\data\bin\Debug\netstandard2.0\data.pdb
+C:\Users\dexter\source\repos\EntityProject\data\bin\Debug\netstandard2.0\domain.pdb
+C:\Users\dexter\source\repos\EntityProject\data\bin\Debug\netstandard2.0\domain.dll.config
+C:\Users\dexter\source\repos\EntityProject\data\obj\Debug\netstandard2.0\data.csproj.CopyComplete
+C:\Users\dexter\source\repos\EntityProject\data\obj\Debug\netstandard2.0\data.dll
+C:\Users\dexter\source\repos\EntityProject\data\obj\Debug\netstandard2.0\data.pdb
